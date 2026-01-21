@@ -1,13 +1,19 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Alex Martinez Savournin
+logo: "/images/logo.png?raw=true"
+
+description: > 
+  Software Engineering student (Level II) at McMaster University.
   <br><br>
-  Second description 
+  Interested in AI-assisted development, game and graphics programming, and backend systems.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  Email: <a href="mailto:alexmartsavournin@gmail.com">alexmartsavournin@gmail.com</a>
+  <br>
+  GitHub: <a href="https://github.com/alephnull1678">github.com/alephnull1678</a>
+  <br>
+  LinkedIn: <a href="http://www.linkedin.com/in/alex-martinez-9aba55367">http://www.linkedin.com/in/alex-martinez-9aba55367</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here (or remove line if not needed)
