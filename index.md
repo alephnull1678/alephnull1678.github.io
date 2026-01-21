@@ -4,15 +4,16 @@
 
 ### Projects
 
-[DocxMCP](#)
+[DocxMCP](https://www.npmjs.com/package/docxmcp)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 MCP server that gives MCP-compatible LLM clients like Claude Code the ability to read `.docx` text and images.  
 - Experimented with phased project planning in Claude Code and Goose to create AI-assisted code that followed human development workflows.  
 - Created custom agents that work sequentially to decompose tasks and fix issues.  
 
+<br>
 
-[Sunset Swing](#)
+[Sunset Swing](https://alephnull1678.itch.io/sunset-swing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Unity game where players swing through an infinite procedurally generated city with a dynamic physics system.  
@@ -20,10 +21,21 @@ Unity game where players swing through an infinite procedurally generated city w
 - Implemented custom physics using Vector and Quaternion calculations to keep swinging smooth and responsive.  
 - Full adaptive audio implementation and hand-crafted art and music assets.
 
+<!-- YouTube embed -->
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/JPE09qolbLo"
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<br>
 
 - **SEE-R** — Arduino distance detector that measures proximity and can be used in small hardware demos.  
 - **Crayon Samurai** — Python game project exploring gameplay, visuals, and input handling.
-
 
 ---
 
