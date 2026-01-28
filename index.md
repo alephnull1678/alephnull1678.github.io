@@ -17,7 +17,7 @@ MCP server that gives MCP-compatible LLM clients like Claude Code the ability to
 <br>
 
 #### Sunset Swing
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sunsetswinglogo.png?raw=true"/>
 
 Unity game where players swing through an infinite procedurally generated city with a dynamic physics system.  
 - Built to scratch the same “satisfying traversal” itch as games like slowroads.io and Clustertruck, with room for skill expression and speed.  
@@ -40,9 +40,23 @@ Unity game where players swing through an infinite procedurally generated city w
 
 <br>
 
-- **SEE-R** — Arduino distance detector that measures proximity and can be used in small hardware demos.  
-- **Crayon Samurai** — Python game project exploring gameplay, visuals, and input handling.
+#### SEE-R
+<img src="images/seerlogo.png?raw=true"/>
 
+
+A wearable Arduino-powered device that converts heat and distance readings into vibrations and
+audio output for visually impaired individuals.
+- Worked with a group of 5 to program Arduino functionality through C++ and the Talkie library, giving dynamic
+and near-instant output to vibration and audio components.
+- Data processing and filtering allowed for project to record temperature values to within 10% of their real value, up
+to a distance of 100 cm.
+
+
+**Links:**
+→ [presentation](https://drive.google.com/file/d/1riJDx0yORGbm_tujn7bInW1-vi-2Zr6p/view)
+
+
+<br>
 ---
 
 <p style="font-size:11px">
