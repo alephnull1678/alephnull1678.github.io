@@ -41,7 +41,7 @@ Unity game where players swing through an infinite procedurally generated city w
 <br>
 
 #### SEE-R
-<img src="images/seerlogo.png?raw=true"/>
+<img src="images/seerlogo.jpg?raw=true"/>
 
 
 A wearable Arduino-powered device that converts heat and distance readings into vibrations and
