@@ -12,7 +12,7 @@ MCP server that gives MCP-compatible LLM clients like Claude Code the ability to
 - Created custom agents that work sequentially to decompose tasks and fix issues.  
 
 **Links:**  
-→ npm package: https://www.npmjs.com/package/docxmcp
+→ [npm package](https://www.npmjs.com/package/docxmcp)
 
 <br>
 
@@ -25,8 +25,8 @@ Unity game where players swing through an infinite procedurally generated city w
 - Full adaptive audio implementation and hand-crafted art and music assets.
 
 **Links:**  
-→ itch.io page: https://alephnull1678.itch.io/sunset-swing  
-→ gameplay video:
+→ [itch.io page](https://alephnull1678.itch.io/sunset-swing)  
+→ [gameplay video](https://www.youtube.com/watch?v=JPE09qolbLo)
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin-top:8px;">
   <iframe
